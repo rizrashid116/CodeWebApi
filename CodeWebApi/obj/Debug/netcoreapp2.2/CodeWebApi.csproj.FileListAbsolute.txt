@@ -1,0 +1,13 @@
+C:\Users\muhammad.rashid\source\repos\CodeWebApi\CodeWebApi\bin\Debug\netcoreapp2.2\CodeWebApi.deps.json
+C:\Users\muhammad.rashid\source\repos\CodeWebApi\CodeWebApi\bin\Debug\netcoreapp2.2\CodeWebApi.runtimeconfig.json
+C:\Users\muhammad.rashid\source\repos\CodeWebApi\CodeWebApi\bin\Debug\netcoreapp2.2\CodeWebApi.runtimeconfig.dev.json
+C:\Users\muhammad.rashid\source\repos\CodeWebApi\CodeWebApi\bin\Debug\netcoreapp2.2\CodeWebApi.dll
+C:\Users\muhammad.rashid\source\repos\CodeWebApi\CodeWebApi\obj\Debug\netcoreapp2.2\CodeWebApi.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.rashid\source\repos\CodeWebApi\CodeWebApi\obj\Debug\netcoreapp2.2\CodeWebApi.RazorAssemblyInfo.cache
+C:\Users\muhammad.rashid\source\repos\CodeWebApi\CodeWebApi\obj\Debug\netcoreapp2.2\CodeWebApi.RazorAssemblyInfo.cs
+C:\Users\muhammad.rashid\source\repos\CodeWebApi\CodeWebApi\obj\Debug\netcoreapp2.2\CodeWebApi.AssemblyInfoInputs.cache
+C:\Users\muhammad.rashid\source\repos\CodeWebApi\CodeWebApi\obj\Debug\netcoreapp2.2\CodeWebApi.AssemblyInfo.cs
+C:\Users\muhammad.rashid\source\repos\CodeWebApi\CodeWebApi\obj\Debug\netcoreapp2.2\CodeWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\muhammad.rashid\source\repos\CodeWebApi\CodeWebApi\bin\Debug\netcoreapp2.2\CodeWebApi.pdb
+C:\Users\muhammad.rashid\source\repos\CodeWebApi\CodeWebApi\obj\Debug\netcoreapp2.2\CodeWebApi.dll
+C:\Users\muhammad.rashid\source\repos\CodeWebApi\CodeWebApi\obj\Debug\netcoreapp2.2\CodeWebApi.pdb
