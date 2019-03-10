@@ -1,9 +1,9 @@
 # CodeWebApi
 
 Requirements
-Visual Studio 201
-Asp.Net Core 2.2
-Mongo Driver 2.7.3 (NoSql Database)
+Asp.Net Core 2.2<br>
+Mongo Driver 2.7.3 (NoSql Database)<br/>
 
-Used Software:
+Used Software:<br>
+Visual Studio 2017<br>
 MongoDB Compass Community.
