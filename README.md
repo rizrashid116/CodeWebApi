@@ -6,4 +6,6 @@ Mongo Driver 2.7.3 (NoSql Database)<br/>
 
 Used Software:<br>
 Visual Studio 2017<br>
-MongoDB Compass Community.
+Unit Testing (MsTest) <br>
+MongoDB Compass Community.<BR>
+Postman (testing api(s))
